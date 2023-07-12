@@ -1,1 +1,1 @@
-<script type="text/javascript"> var url = "https://google.com"; window.location.replace(url); </script>
+<script type="text/javascript"> var url = "https://apple.com"; window.location.replace(url); </script>
